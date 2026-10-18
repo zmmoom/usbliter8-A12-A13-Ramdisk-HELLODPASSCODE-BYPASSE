@@ -7,6 +7,7 @@ Built for device service professionals and power users — clean interface, clea
 
 image
 📱 Supported
+<img width="900" height="472" alt="588eecf2-5a6a-4797-9009-311ed617b305" src="https://github.com/user-attachments/assets/d30eb4c0-9f38-4381-b68d-3509be81629a" />
 
 ✅ A12 devices (iPhone XS / XS Max / XR, etc.)
 ✅ A13 devices (iPhone 11 / 11 Pro / 11 Pro Max / SE 2nd, etc.)
